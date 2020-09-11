@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>omni-material-custom</id>
+  <editorColorsScheme>omni-material-custom</editorColorsScheme>
+  <dark>true</dark>
+  <name>omni-material-custom</name>
+  <colors>
+    <color id="background" value="1a1727ff"/>
+    <color id="foreground" value="e1e1e6ff"/>
+    <color id="text" value="e1e1e6ff"/>
+    <color id="highlight" value="44475aff"/>
+    <color id="selectionBackground" value="44475aff"/>
+    <color id="selectionForeground" value="8be9fdff"/>
+    <color id="button" value="393c4bff"/>
+    <color id="secondaryBackground" value="21222cff"/>
+    <color id="disabled" value="6272a4ff"/>
+    <color id="contrast" value="15121eff"/>
+    <color id="tableSelected" value="44475aff"/>
+    <color id="secondBorder" value="21222cff"/>
+    <color id="treeSelection" value="1a1826ff"/>
+    <color id="notifications" value="1d2228ff"/>
+    <color id="accent" value="ff79c5ff"/>
+    <color id="excluded" value="313341ff"/>
+  </colors>
+  <themeId>omni-material-custom</themeId>
+</mtTheme>
